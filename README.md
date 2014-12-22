@@ -36,72 +36,82 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Gerards prayers; or, a daylie practice of pietie: divided into foure parts. 1 of Confession of sinne
+
+1. To the Reader.
+
 #####Body#####
 
-1. PRAYER I. Hee weygheth, and considereth, the grievousnesse of originall sinne.
+1. THE FIRST PART. Of Confession of Sinnes.
 
-1. PRAYER II. Hee recalleth to our memorie the sinnes of our youth.
+    _ PRAYER I. Hee weygheth, and considereth, the grievousnesse of originall sinne.
 
-1. PRAYER III. Hee reckeneth vp our daylie falls, and slips.
+    _ PRAYER II. Hee recalleth to our memorie the sinnes of our youth.
 
-1. PRAYER IV. Hee examineth our lyfe, according to the rule of the first table of the Commandements.
+    _ PRAYER III. Hee reckeneth vp our daylie falls, and slips.
 
-1. PRAYER V. Hee considereth our lyfe, according to the rule of the second table of the commandements.
+    _ PRAYER IV. Hee examineth our lyfe, according to the rule of the first table of the Commandements.
 
-1. PRAYER VI. Hee showeth that wee often partake in other mens sinnes.
+    _ PRAYER V. Hee considereth our lyfe, according to the rule of the second table of the commandements.
 
-1. PRAYER VII. Hee showeth that wee are manie wayes convinced of sinne.
+    _ PRAYER VI. Hee showeth that wee often partake in other mens sinnes.
 
-1. PRAYER VIII. Hee by the effects of contrition argueth vs to bee convicted of the haynousnesse of sinne.
+    _ PRAYER VII. Hee showeth that wee are manie wayes convinced of sinne.
 
-1. PRAYER IX. Hee declareth the number and greatnesse of Gods benefits vnto vs, and the grievousnesse of our sinnes.
+    _ PRAYER VIII. Hee by the effects of contrition argueth vs to bee convicted of the haynousnesse of sinne.
 
-1. PRAYER X. Hee considereth the severitie of GODS anger agaynst our sinnes, in the death and passion of CHRIST.
+    _ PRAYER IX. Hee declareth the number and greatnesse of Gods benefits vnto vs, and the grievousnesse of our sinnes.
 
-1. PRAYER I. Hee giveth thanks for our forming in the wombe, and for our nativitie.
+    _ PRAYER X. Hee considereth the severitie of GODS anger agaynst our sinnes, in the death and passion of CHRIST.
 
-1. PRAYER II. Hee rendereth thankes for our sustentation.
+1. THE SECOND PART. Of thanksgiving for Benefits.
 
-1. PRAYER III. Hee rendereth thankes for our redemption wrought by Christ.
+    _ PRAYER I. Hee giveth thanks for our forming in the wombe, and for our nativitie.
 
-1. PRAYER IV. Hee rendereth thankes for the inc•rn•tion of the Sonne.
+    _ PRAYER II. Hee rendereth thankes for our sustentation.
 
-1. PRAYER V. Hee rendereth thankes for Christs passion.
+    _ PRAYER III. Hee rendereth thankes for our redemption wrought by Christ.
 
-1. PRAYER VI. Hee rendereth thankes for our calling by the word.
+    _ PRAYER IV. Hee rendereth thankes for the inc•rn•tion of the Sonne.
 
-1. PRAYER VII. Hee rendereth thankes vnto God for the expectation of our conversion.
+    _ PRAYER V. Hee rendereth thankes for Christs passion.
 
-1. PRAYER VIII. Hee rendereth thankes for our conversion.
+    _ PRAYER VI. Hee rendereth thankes for our calling by the word.
 
-1. PRAYER IX. Hee rendereth thankes for the forgivenesse of sinnes.
+    _ PRAYER VII. Hee rendereth thankes vnto God for the expectation of our conversion.
 
-1. PRAYER X. Hee rendereth thankes vnto God for conserving vs in that which is good.
+    _ PRAYER VIII. Hee rendereth thankes for our conversion.
 
-1. PRAYER XI. Hee rendereth thankes for all the gifts of the soule and bodie, and for externall goods.
+    _ PRAYER IX. Hee rendereth thankes for the forgivenesse of sinnes.
 
-1. PRAYER XII. Hee rendereth thankes for the sacrament of Baptisme.
+    _ PRAYER X. Hee rendereth thankes vnto God for conserving vs in that which is good.
 
-1. PRAYER XIII. Hee rendereth thankes for the sacrament of the Lords Supper.
+    _ PRAYER XI. Hee rendereth thankes for all the gifts of the soule and bodie, and for externall goods.
 
-1. PRAYER XIV. Hee r••nd•reth thankes to God, for preserving vs from sundrie evills.
+    _ PRAYER XII. Hee rendereth thankes for the sacrament of Baptisme.
 
-1. PRAYER I. Hee prayeth for the conservation and continuance of the word, and for the propagation and increase of the Church.
+    _ PRAYER XIII. Hee rendereth thankes for the sacrament of the Lords Supper.
 
-1. PRAYER II. Hee supplicateth for Pastors and their hearers.
+    _ PRAYER XIV. Hee r••nd•reth thankes to God, for preserving vs from sundrie evills.
+
+1. THE FOURTH PART. Of Supplications for others.
+
+    _ PRAYER I. Hee prayeth for the conservation and continuance of the word, and for the propagation and increase of the Church.
+
+    _ PRAYER II. Hee supplicateth for Pastors and their hearers.
 〈1 page missing〉holie that Nurserie of the Church and Common-weale. Giue vnto virgins, widows, and m
-1. PRAYER V. Hee prayeth for parents, brethren, sisters, kinsfolke, and benefactours.
+    _ PRAYER V. Hee prayeth for parents, brethren, sisters, kinsfolke, and benefactours.
 
-1. PRAYER VI. He prayeth for enemies and persecutors,
+    _ PRAYER VI. He prayeth for enemies and persecutors,
 
-1. PRAYER VII. Hee supplieateth for those that are afflicted and in miserie.
+    _ PRAYER VII. Hee supplieateth for those that are afflicted and in miserie.
 
 #####Back#####
 
-1. The foure capitall words signifie the foure parts of Gerards prayers, and the Arithmeticall figures poynt at every prayer of those parts.
+1. The summe of GERARD'S prayers, reduced into a forme of morning prayer for the vse of an English familie.
 
-1. An Evening prayer for a familie, gathered here and there out of Gerards Meditations and Prayers.
+    _ The foure capitall words signifie the foure parts of Gerards prayers, and the Arithmeticall figures poynt at every prayer of those parts.
+
+    _ An Evening prayer for a familie, gathered here and there out of Gerards Meditations and Prayers.
 
 **Types of content**
 
